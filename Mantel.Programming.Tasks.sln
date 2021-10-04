@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mantel.Programming.Tasks.Services", "Mantel.Programming.Tasks.Services\Mantel.Programming.Tasks.Services.csproj", "{9CDF876C-8C6D-41B3-9530-215BB7660026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mantel.Programming.Tasks.Services.Interfaces", "Mantel.Programming.Tasks.Services.Interfaces\Mantel.Programming.Tasks.Services.Interfaces.csproj", "{65A8D25B-804A-40E9-BCE0-41C9AD5C92AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mantel.Programming.Tasks.Models", "Mantel.Programming.Tasks.Models\Mantel.Programming.Tasks.Models.csproj", "{DB0E96F9-21F9-413D-B491-929AC0CBC0F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mantel.Programming.Tasks.Services.UnitTests", "Mantel.Programming.Tasks.Services.UnitTests\Mantel.Programming.Tasks.Services.UnitTests.csproj", "{266689D9-BBF5-43F6-9274-3AC681FC88FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mantel.Programming.Tasks.WebApi", "Mantel.Programming.Tasks.WebApi\Mantel.Programming.Tasks.WebApi.csproj", "{0E77255F-BD2C-4DD9-991A-02E5D88157FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mantel.Programming.Tasks.Repository", "Mantel.Programming.Tasks.Repository\Mantel.Programming.Tasks.Repository.csproj", "{EA58869F-4E02-4912-BA3A-C0D00922D112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CDF876C-8C6D-41B3-9530-215BB7660026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDF876C-8C6D-41B3-9530-215BB7660026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDF876C-8C6D-41B3-9530-215BB7660026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDF876C-8C6D-41B3-9530-215BB7660026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A8D25B-804A-40E9-BCE0-41C9AD5C92AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A8D25B-804A-40E9-BCE0-41C9AD5C92AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A8D25B-804A-40E9-BCE0-41C9AD5C92AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A8D25B-804A-40E9-BCE0-41C9AD5C92AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0E96F9-21F9-413D-B491-929AC0CBC0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0E96F9-21F9-413D-B491-929AC0CBC0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0E96F9-21F9-413D-B491-929AC0CBC0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0E96F9-21F9-413D-B491-929AC0CBC0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266689D9-BBF5-43F6-9274-3AC681FC88FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266689D9-BBF5-43F6-9274-3AC681FC88FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266689D9-BBF5-43F6-9274-3AC681FC88FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266689D9-BBF5-43F6-9274-3AC681FC88FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E77255F-BD2C-4DD9-991A-02E5D88157FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E77255F-BD2C-4DD9-991A-02E5D88157FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E77255F-BD2C-4DD9-991A-02E5D88157FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E77255F-BD2C-4DD9-991A-02E5D88157FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA58869F-4E02-4912-BA3A-C0D00922D112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA58869F-4E02-4912-BA3A-C0D00922D112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA58869F-4E02-4912-BA3A-C0D00922D112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA58869F-4E02-4912-BA3A-C0D00922D112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
